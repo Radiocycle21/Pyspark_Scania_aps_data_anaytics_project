@@ -2,7 +2,7 @@
 
 📌 Introduction
 
-This project analyzes the Air Pressure System (APS) dataset from Scania trucks using PySpark.
+This project analyzes the ** Air Pressure System (APS) dataset from Scania trucks ** using PySpark.
 The primary focus is on Exploratory Data Analysis (EDA), advanced analytics, and data engineering techniques.
 
 The dataset contains sensor readings and system indicators collected from heavy-duty truck engines, with the target of predicting whether a truck will experience a component failure that requires replacement. Since the dataset consists mostly of numeric fields without clear dimensions, it is treated as a fact-style dataset and explored through summarization, aggregations, and statistical profiling.
