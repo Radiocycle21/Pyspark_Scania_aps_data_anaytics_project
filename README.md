@@ -23,10 +23,10 @@ The dataset contains **sensor readings and system indicators** collected from he
 
 ✅ **Outcomes**
 
-- By the end of this project, the deliverables will include:
-- A **clean, analytics-ready dataset**.
-- A set of **analytical insights from PySpark in Databricks**.
-- A **Tableau dashboard** that ties everything together.
+By the end of this project, the deliverables will include:
+  - A **clean, analytics-ready dataset**.
+  - A set of **analytical insights from PySpark in Databricks**.
+  - A **Tableau dashboard** that ties everything together.
 
 🔄 **Project Workflow** 
 
