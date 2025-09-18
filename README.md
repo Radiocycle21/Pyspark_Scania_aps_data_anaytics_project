@@ -1,5 +1,5 @@
 # Pyspark_Scania_aps_failure_anaytics_project
-------------------------------------------------------------------------------------------------
+
 📌 Introduction
 
 This project analyzes the Air Pressure System (APS) dataset from Scania trucks using PySpark.
@@ -27,3 +27,5 @@ The dataset contains sensor readings and system indicators collected from heavy-
 - A clean, analytics-ready dataset.
 - A set of analytical insights from PySpark in Databricks.
 - A Tableau dashboard that ties everything together.
+
+------------------------------------------------------------------------------------------------
