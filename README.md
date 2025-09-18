@@ -9,30 +9,21 @@ The dataset contains sensor readings and system indicators collected from heavy-
 
 🎯 Objectives
 
-Approach the dataset from a data analytics and data warehousing perspective.
-
-Demonstrate an end-to-end pipeline using Databricks (PySpark + SQL) for data preparation and exploration.
-
-Perform EDA to extract insights in a structured way.
-
-Replicate and communicate the same insights through Tableau dashboards for visualization and storytelling.
+- Approach the dataset from a data analytics and data warehousing perspective.
+- Demonstrate an end-to-end pipeline using Databricks (PySpark + SQL) for data preparation and exploration.
+- Perform EDA to extract insights in a structured way.
+- Replicate and communicate the same insights through Tableau dashboards for visualization and storytelling.
 
 🔑 Emphasis
 
-Understanding the dataset structure.
-
-Cleaning and preparing it for analysis.
-
-Answering meaningful, business-style questions.
-
-Building reproducible visualizations that can be shared with stakeholders.
+- Understanding the dataset structure.
+- Cleaning and preparing it for analysis.
+- Answering meaningful, business-style questions.
+- Building reproducible visualizations that can be shared with stakeholders.
 
 ✅ Outcomes
 
-By the end of this project, the deliverables will include:
-
-A clean, analytics-ready dataset.
-
-A set of analytical insights from PySpark in Databricks.
-
-A Tableau dashboard that ties everything together.
+- By the end of this project, the deliverables will include:
+- A clean, analytics-ready dataset.
+- A set of analytical insights from PySpark in Databricks.
+- A Tableau dashboard that ties everything together.
