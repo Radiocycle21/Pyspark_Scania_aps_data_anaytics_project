@@ -10,7 +10,7 @@ The dataset contains **sensor readings and system indicators** collected from he
 🎯 **Objectives**
 
 - Approach the dataset from a **data analytics and data warehousing perspective**.
-- Demonstrate an end-to-end pipeline using Databricks (PySpark + SQL) for data preparation and exploration.
+- Demonstrate an **end-to-end pipeline using Databricks (PySpark + SQL)** for data preparation and exploration.
 - Perform **EDA** to extract insights in a structured way.
 - Replicate and communicate the same insights through **Tableau dashboards** for visualization and storytelling.
 
