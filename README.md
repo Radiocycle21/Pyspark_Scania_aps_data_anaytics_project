@@ -53,3 +53,14 @@ By the end of this project, the deliverables will include:
 - Export cleaned datasets from Databricks.
 - Build Tableau dashboards to replicate and present the insights.
 - Use charts and summaries to tell a structured data story.
+
+🗂️ **Project Overview** 
+
+This repository contains the full workflow of our project — from raw data to final analysis and visualization.
+
+- **[README - Data Cleaning]** → Details of the data cleaning steps we performed.  
+- **[README - SQL Queries]** → Explanation of SQL queries and logic used.  
+- **[README - Tableau]** → Dashboarding and visualization details.  
+
+Refer to each individual README to understand every step in detail.
+
