@@ -37,7 +37,3 @@ This document summarizes the data cleaning process performed on the Scania APS F
 - Dataset is fully cleaned and standardized.  
 - Ready for **Exploratory Data Analysis (EDA)** phase.  
 
----
-
-## 📂 Repo Structure (relevant parts)
-
