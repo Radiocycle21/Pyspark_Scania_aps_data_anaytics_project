@@ -69,8 +69,8 @@ Refer to each individual README to understand every step in detail.
 ![Tableau Visualization](images/tableau_viz.png)
 
 ## 🧪 Databricks Screenshots
-![Databricks Screenshot 1](images/databricks_1.png)
-![Databricks Screenshot 2](images/databricks_2.png)
-![Databricks Screenshot 3](images/databricks_3.png)
-
+![Databricks Screenshot 1](Images/Databricks_1.png)
+![Databricks Screenshot 2](Images/databricks_2.png)
+![Databricks Screenshot 3](Images/databricks_3.png)
+![Databricks Screenshot 3](Images/databricks_4.png)
 
