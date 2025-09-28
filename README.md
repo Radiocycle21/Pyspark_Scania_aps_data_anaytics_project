@@ -66,6 +66,9 @@ Refer to each individual README to understand every step in detail.
 
 
 ## 📊 Tableau Visualization
+
+Tableau Visualization link to Tableau public-- https://public.tableau.com/app/profile/prajwal.sai6564/viz/ScaniaAPSdashboard/ScaniaAPSDashboard?publish=yes
+
 ![Tableau Visualization](Images/Tableau_Scania_APS_Sensor_viz.png)
 
 ## 🧪 Databricks Screenshots
