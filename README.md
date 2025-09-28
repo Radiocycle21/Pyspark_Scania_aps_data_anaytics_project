@@ -56,7 +56,7 @@ By the end of this project, the deliverables will include:
 
 🗂️ **Project Overview** 
 
-This repository contains the full workflow of the project — from raw data to final analysis and visualization.
+This repository contains the full workflow of the project — *unfortunately I cannot upload the raw files to github as it is over 50MB. You can find the data on kaggle!
 
 - **[README - Data Cleaning]** → Details of the data cleaning steps we performed.  
 - **[README - SQL Queries]** → Explanation of SQL queries and logic used.  
