@@ -5,7 +5,7 @@
 This project analyzes the **Air Pressure System (APS) dataset from Scania trucks** using **PySpark**.
 The primary focus is on **Exploratory Data Analysis (EDA), advanced analytics**, and **data engineering techniques**.
 
-The dataset contains **sensor readings and system indicators** collected from heavy-duty truck engines, with the target of predicting whether a truck will experience a component failure that requires replacement. Since the dataset consists mostly of numeric fields without clear dimensions, it is treated as a **fact-style dataset** and explored through summarization, aggregations, and statistical profiling.
+The dataset contains **sensor readings and system indicators** collected from heavy-duty truck, with the target of predicting whether a truck will experience a component failure that requires replacement. Since the dataset consists mostly of numeric fields without clear dimensions, it is treated as a **fact-style dataset** and explored through summarization, aggregations, and statistical profiling.
 
 🎯 **Objectives**
 
@@ -56,11 +56,21 @@ By the end of this project, the deliverables will include:
 
 🗂️ **Project Overview** 
 
-This repository contains the full workflow of our project — from raw data to final analysis and visualization.
+This repository contains the full workflow of the project — from raw data to final analysis and visualization.
 
 - **[README - Data Cleaning]** → Details of the data cleaning steps we performed.  
 - **[README - SQL Queries]** → Explanation of SQL queries and logic used.  
 - **[README - Tableau]** → Dashboarding and visualization details.  
 
 Refer to each individual README to understand every step in detail.
+
+
+## 📊 Tableau Visualization
+![Tableau Visualization](images/tableau_viz.png)
+
+## 🧪 Databricks Screenshots
+![Databricks Screenshot 1](images/databricks_1.png)
+![Databricks Screenshot 2](images/databricks_2.png)
+![Databricks Screenshot 3](images/databricks_3.png)
+
 
