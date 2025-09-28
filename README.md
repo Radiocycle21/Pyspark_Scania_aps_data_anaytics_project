@@ -66,11 +66,11 @@ Refer to each individual README to understand every step in detail.
 
 
 ## 📊 Tableau Visualization
-![Tableau Visualization](images/tableau_viz.png)
+![Tableau Visualization](Images/Tableau Scania APS Sensor dashboard screenshot.png)
 
 ## 🧪 Databricks Screenshots
 ![Databricks Screenshot 1](Images/Databricks_1.png)
-![Databricks Screenshot 2](Images/databricks_2.png)
-![Databricks Screenshot 3](Images/databricks_3.png)
-![Databricks Screenshot 3](Images/databricks_4.png)
+![Databricks Screenshot 2](Images/Databricks_2.png)
+![Databricks Screenshot 3](Images/Databricks_3.png)
+![Databricks Screenshot 3](Images/Databricks_4.png)
 
